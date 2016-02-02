@@ -1,12 +1,12 @@
 [
   {
-    "name": "Our first resource",
-    "description": "An Amazing Resource",
-    "url": "<path_to_first_resource>"
+    "name": "Logo",
+    "description": "Our amazing logo",
+    "url": "static/img/acdqLogo.png"
   },
   {
-    "name": "Our second resource",
-    "description": "An Amazing Second Resource",
-    "url": "<path_to_second_resource>"
+    "name": "Motto",
+    "description": "Our motto 1",
+    "url": "static/img/motto.jpg"
   }
 ]
