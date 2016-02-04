@@ -6,17 +6,17 @@
   },
   {
     "name": "Motto",
-    "description": "Our motto 1",
+    "description": "Our motto",
     "url": "static/img/motto.jpg"
   },
   {
     "name": "Overview_Tecnica",
-    "description": "Our motto 1",
+    "description": "Tecnologie usate per il software",
     "url": "static/docs/ACDQ_sw.pptx"
   },
   {
     "name": "Overview_InterfacciaWeb",
-    "description": "Our motto 1",
+    "description": "Guida GUI WEB per impostare e gestire gli eventi su cui fare il pricing",
     "url": "static/docs/GUIDA_WEBTOOL.docx"
   }
 
