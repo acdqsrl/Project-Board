@@ -8,5 +8,16 @@
     "name": "Motto",
     "description": "Our motto 1",
     "url": "static/img/motto.jpg"
+  },
+  {
+    "name": "Overview_Tecnica",
+    "description": "Our motto 1",
+    "url": "static/docs/ACDQ_sw.pptx"
+  },
+  {
+    "name": "Overview_InterfacciaWeb",
+    "description": "Our motto 1",
+    "url": "static/docs/GUIDA_WEBTOOL.docx"
   }
+
 ]
