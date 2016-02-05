@@ -2,7 +2,7 @@
   {
     "id": "1",
     "name": "Imposizione attendance voluta",
-    "category": "Operation",
+    "category": "Software",
     "importance": "100",
     "estimation": "3",
     "demo": "Screenshot",
@@ -13,7 +13,7 @@
   {
     "id": "2",
     "name": "Forzatura manuale dei prezzi",
-    "category": "BIZ DEV",
+    "category": "Software",
     "importance": "80",
     "estimation": "2",
     "demo": "Screenshot",
