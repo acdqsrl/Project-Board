@@ -3,10 +3,10 @@
     "id": "1",
     "name": "Imposizione attendance voluta",
     "category": "Software",
-    "importance": "100",
+    "importance": "40",
     "estimation": "3",
     "demo": "Screenshot",
-    "notes": "I prezzi si possono massimizzare per fatturato oppure per attendance. Al momento la GUI WEB non lo consente di fare.",
+    "notes": "I prezzi si possono massimizzare per fatturato oppure per attendance. Al momento la GUI WEB non consente di gestire la seconda.",
     "links": "",
     "assigned": "Massimo, 3"
   },
@@ -14,10 +14,10 @@
     "id": "2",
     "name": "Forzatura manuale dei prezzi",
     "category": "Software",
-    "importance": "80",
+    "importance": "60",
     "estimation": "2",
     "demo": "Screenshot",
-    "notes": "Se la società cliente, per un certo evento, decide in ogni momento di fissare i prezzi ad esempio a 10 euro, bisogna poterlo fare rapidamente da GUI per fare in modo che l'algoritmo recepisca immediatamente la nuova direttiva.",
+    "notes": "Se la società cliente, per un certo evento, decide in un qualsiasi momento di fissare i prezzi ad esempio a 10 Euro, bisogna poterlo fare rapidamente da GUI per fare in modo che l'algoritmo recepisca immediatamente la nuova direttiva.",
     "links": "",
     "assigned": "Massimo, 2"
   }
