@@ -1,24 +1,24 @@
 [
   {
     "id": "1",
-    "name": "Organize and execute 6 guided tours",
-    "category": "Operation",
-    "importance": "100",
-    "estimation": "4",
-    "demo": "Screenshot new booked tours",
-    "notes": "We have to make those tours more appealing",
+    "name": "Imposizione attendance voluta",
+    "category": "Software",
+    "importance": "40",
+    "estimation": "3",
+    "demo": "Screenshot",
+    "notes": "I prezzi si possono massimizzare per fatturato oppure per attendance. Al momento la GUI WEB non consente di gestire la seconda.",
     "links": "",
-    "assigned": "Mario 3, Luigi 1"
+    "assigned": "Massimo, 3"
   },
   {
     "id": "2",
-    "name": "Increase by 60% the returning user",
-    "category": "BIZ DEV",
-    "importance": "80",
-    "estimation": "3",
-    "demo": "Show Data",
-    "notes": "Ask Uncle Sam for some useful tips",
+    "name": "Forzatura manuale dei prezzi",
+    "category": "Software",
+    "importance": "60",
+    "estimation": "2",
+    "demo": "Screenshot",
+    "notes": "Se la società cliente, per un certo evento, decide in un qualsiasi momento di fissare i prezzi ad esempio a 10 Euro, bisogna poterlo fare rapidamente da GUI per fare in modo che l'algoritmo recepisca immediatamente la nuova direttiva.",
     "links": "",
-    "assigned": "Luigi 3"
+    "assigned": "Massimo, 2"
   }
 ]

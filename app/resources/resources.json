@@ -1,12 +1,28 @@
 [
   {
     "name": "Logo",
-    "description": "Our amazing logo",
+    "description": "ACDQ Srl Logo",
     "url": "static/img/acdqLogo.png"
   },
   {
     "name": "Motto",
-    "description": "Our motto 1",
-    "url": "static/img/motto.jpg"
+    "description": "Il nostro motto",
+    "url": "static/docs/motto.png"
+  },
+  {
+    "name": "Overview Tecnica",
+    "description": "Tecnologie usate per il software",
+    "url": "static/docs/ACDQ_sw.pptx"
+  },
+  {
+    "name": "Overview InterfacciaWeb",
+    "description": "Guida GUI WEB per impostare e gestire gli eventi su cui fare il pricing",
+    "url": "static/docs/GUIDA_WEBTOOL.docx"
+  },
+  {
+    "name": "Brief Logo Dynamitick",
+    "description": "LogobrandDynamiTick, start up di ACDQ srl",
+    "url": "static/docs/BriefLogoDynamitick.pdf"
   }
+
 ]
