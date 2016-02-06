@@ -5,6 +5,11 @@
     "url": "static/img/acdqLogo.png"
   },
   {
+    "name": "Motto",
+    "description": "Il nostro motto",
+    "url": "static/docs/motto.png"
+  },
+  {
     "name": "Overview Tecnica",
     "description": "Tecnologie usate per il software",
     "url": "static/docs/ACDQ_sw.pptx"
